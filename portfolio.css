@@ -1,0 +1,80 @@
+body{ color: rgb(1, 11, 14); font-size: 1.5rem; background-color: bisque;}
+.containerss{border{color: aquamarine; padding: 35px;}
+    background-color: aquamarine;
+    align-items: start;
+    width: 200px;
+    height: 300px;
+    margin: 100px;
+    padding: 40px;
+    color: blue;
+    container: initial;
+    border-color: black;}
+    body{scroll-behavior: smooth;}
+    .container{position: sticky; }
+    .morgan{color: black;}
+    h1{color: red;
+    opacity: 0.90;}
+    
+
+    
+
+
+h1{text-align:start;}
+h2{text-align: start;}
+footer{color: black;}
+h2{color: red;}
+h2{direction: ltr;}
+.logo{text-decoration: underline;}
+h1{text-decoration: underline;}
+h1{text-decoration-color:blue ;}
+h2{text-decoration: underline;}
+h2{text-decoration-color: blue;}
+h1{text-decoration-style: none;}
+h1{text-decoration-thickness: 3px;}
+h2{text-decoration-thickness: 2px;}
+.address{color: black;}
+
+.navbar
+{background-color: gray;
+overflow: hidden;
+}
+.navbar a
+{float: left; 
+font-size: medium;
+color: aliceblue;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;}
+.vivo
+{float: left;
+overflow: hidden;}
+
+.vivo .john
+{border: 2px;
+outline: none;
+color: aliceblue;
+padding: 14px 15px;
+background-color: inherit;
+cursor: pointer;}
+
+.dropdown-content
+{display: none;
+position: absolute;
+background-color: rgb(95, 201, 250);
+min-width: 160px;
+box-shadow: 1.5px gray;
+z-index: 2;}
+
+.dropdown-content a
+{float: none;
+color: black;
+padding: 12px 16px;
+display: block;
+text-align: left;
+text-decoration: none;}
+
+.dropdown-content a:hover
+{background-color: red;}
+.vivo:hover .dropdown-content {display: block;}
+.logo{text-align: center;
+background-color: rgb(10, 177, 121);}
